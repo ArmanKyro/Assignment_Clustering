@@ -1,4 +1,8 @@
-### Table 1: KMeans Clustering
+# Assignment Result: Clustering Analysis on Iris Dataset
+
+In this assignment, we conducted clustering analysis on the Iris dataset using different preprocessing techniques and clustering algorithms. We evaluated the clustering performance using three evaluation metrics: silhouette score, Calinski-Harabasz score, and Davies-Bouldin score.
+
+## Table 1: KMeans Clustering
 
 | Preprocessing | Algorithm | Number of Clusters | Silhouette | Calinski-Harabasz | Davies-Bouldin |
 |---------------|-----------|--------------------|------------|-------------------|----------------|
@@ -12,7 +16,7 @@
 | PCA            | KMeans    | 6                  | 0.443210   | 731.804473        | 0.728544       |
 | PCA            | KMeans    | 9                  | 0.453941   | 733.623183        | 0.690693       |
 
-### Table 2: Hierarchical Clustering
+## Table 2: Hierarchical Clustering
 
 | Preprocessing | Algorithm   | Number of Clusters | Silhouette | Calinski-Harabasz | Davies-Bouldin |
 |---------------|-------------|--------------------|------------|-------------------|----------------|
